@@ -1,6 +1,6 @@
 @extends('layouts.utama')
 
-@section('judul','Daftar Karyawan STIKI')
+@section('judul','Daftar Karyawan STIKI Malang')
 
 @section('isinya')
 
